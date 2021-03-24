@@ -1,6 +1,6 @@
 package keypad;
 /**
- * File: csci1302/keypad/TestKeyPad.java
+ * File: csci1302/keypad/TestKeyPadPane.java
  * Package: keypad
  * @author Christopher Williams
  * Created on: Mar 02, 2020
@@ -12,7 +12,7 @@ import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
 
-public class TestKeyPad extends Application {
+public class TestKeyPadPane extends Application {
 
 	@Override // Override the start method in the Application class
 	public void start(Stage primaryStage) {
