@@ -4,7 +4,7 @@
  # Usage
  Clone this reposotory to your machine, Open in Github Desktop, or copy the code into files on your machine.  
  
- If using the KeyPadPane while it is still in the package, make sure that it is in the same directory and then import it:
+ If using the KeyPadPane while it is still in the package, make sure that it is in the same directory, and import it:
  ```java
  import keypad.*
  ```
