@@ -12,4 +12,4 @@
  You can examine the implementation of the Pane, but should **NOT** modify the contents of the file when using it in your assignment.
  
  # `TestKeyPadPane.java`
- The `TestKeyPadPane.java` file shows how a quick demo of using this custom Pane.  
+ The `TestKeyPadPane.java` file shows a quick demo of using this custom Pane.  
