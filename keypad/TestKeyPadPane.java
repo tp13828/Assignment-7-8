@@ -1,9 +1,10 @@
 package keypad;
 /**
- * File: csci1302/keypad/TestKeyPadPane.java
+ * File: csci1302/keypad/TestKeyPad.java
  * Package: keypad
  * @author Christopher Williams
  * Created on: Mar 02, 2020
+ * Last Modified; Mar 31, 2021
  * Description:  Test the custom KeyPadPane class
  */
 
@@ -20,7 +21,8 @@ public class TestKeyPadPane extends Application {
 		
 		// create a KeyPadPane
 		// KeyPadPane keyPane = new KeyPadPane(); // use for default layout
-		KeyPadPane keyPane = new KeyPadPane(true); // use this for phone layout
+		// KeyPadPane keyPane = new KeyPadPane(true); // use this for phone layout
+		KeyPadPanePlus keyPane = new KeyPadPanePlus(); // using custom version
 		
 		// add KeyPane to BorderPane
 		mainPane.setCenter(keyPane);
@@ -37,3 +39,5 @@ public class TestKeyPadPane extends Application {
 		launch(args);
 	}
 }
+
+
