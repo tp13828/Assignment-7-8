@@ -104,7 +104,7 @@ public class KeyPadPane extends GridPane {
 	 * Extend this class and override this method if you desire 
 	 * different functionality 
 	 */
-	private void registerEventHandlers() {
+	protected void registerEventHandlers() {
 		// check if we are using phone layout
 		ArrayList<Button> currList = new ArrayList<Button>();
 		if (copyListButtons != null) {
