@@ -9,7 +9,7 @@
  import keypad.*
  ```
  
- You can examine the implementation of the Pane, but should **NOT** modify the contents of the file when using it in your assignment(s).
+ You can examine the implementation of the `KeyPadPane.java`, but should **NOT** modify the contents of the file when using it in your assignment(s).
  
  # `TestKeyPadPane.java`
  The `TestKeyPadPane.java` file shows a quick demo of using this custom Pane.  This should not just be copied and pasted for the assignment.  It is only intended as an example.
